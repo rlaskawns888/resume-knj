@@ -12,7 +12,7 @@ const profile: IProfile.Payload = {
   image,
   name: {
     title: '김남준',
-    small: '(KNJ)',
+    small: '(Kim Nam Jun)',
   },
   contact: [
     {

@@ -19,7 +19,7 @@ export const _global: IGlobal.Payload = {
           url: previewImage,
           width: 800,
           height: 600,
-          alt: 'KNJ Image _knj.jpg',
+          alt: 'resume preview image _knj.jpg',
         },
       ],
       type: 'profile',

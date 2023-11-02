@@ -1,9 +1,9 @@
 import favicon from '../asset/favicon.ico';
-import previewImage from '../asset/preview.jpg';
+import previewImage from '../asset/_knj.jpg';
 import { IGlobal } from '../component/common/IGlobal';
 
-const title = 'RESUME: KNJ';
-const description = 'This resume is Kim Nam Jun resume.';
+const title = 'RESUME: Kim Nam Jun';
+const description = '6년차 개발자 김남준 이력서';
 
 export const _global: IGlobal.Payload = {
   favicon,
@@ -19,7 +19,7 @@ export const _global: IGlobal.Payload = {
           url: previewImage,
           width: 800,
           height: 600,
-          alt: 'OpenGraph Image Sample.png',
+          alt: 'KNJ Image _knj.jpg',
         },
       ],
       type: 'profile',

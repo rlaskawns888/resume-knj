@@ -22,6 +22,7 @@ module.exports = withImages({
     }
     return '';
   })(),
+  assetPrefix: '.',
 });
 // withCSS({
 // webpack: config => {

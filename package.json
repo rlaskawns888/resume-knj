@@ -18,7 +18,7 @@
     "lint": "eslint \"component/**/*\" \"pages/**/*\" \"payload/**/*\" \"*.ts\" --fix",
     "typedoc": "typedoc --excludeExternals"
   },
-  "homepage": "https://rlaskawns888.github.io",
+  "homepage": "https://rlaskawns888.github.io/",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rlaskawns888/resume-nextjs-knj.git"

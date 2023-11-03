@@ -20,7 +20,7 @@ const education: IEducation.Payload = {
       title: '포천고등학교',
       subTitle: '이과계열 / 졸업',
       startedAt: '2010-03',
-      endedAt: '2013-03',
+      endedAt: '2013-02',
     },
   ],
 };

@@ -31,22 +31,6 @@ const backend: ISkill.Skill = {
       title: 'MyBatis',
       level: 2,
     },
-    {
-      title: 'Thymeleaf',
-      level: 1,
-    },
-    {
-      title: 'JPA',
-      level: 1,
-    },
-    {
-      title: 'NestJS',
-      level: 1,
-    },
-    {
-      title: 'AWS',
-      level: 1,
-    },
   ],
 };
 
@@ -64,10 +48,6 @@ const database: ISkill.Skill = {
     {
       title: 'MSSQL',
       level: 2,
-    },
-    {
-      title: 'Redis',
-      level: 1,
     },
   ],
 };
@@ -92,20 +72,12 @@ const frontend: ISkill.Skill = {
       level: 3,
     },
     {
-      title: 'typescript',
-      level: 1,
+      title: 'JSRender',
+      level: 2,
     },
     {
-      title: 'Next.js',
-      level: 1,
-    },
-    {
-      title: 'React.js',
-      level: 1,
-    },
-    {
-      title: 'iOS',
-      level: 1,
+      title: 'Framework7',
+      level: 2,
     },
   ],
 };

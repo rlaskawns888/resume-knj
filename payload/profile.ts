@@ -1,4 +1,4 @@
-import { faEnvelope, faPhone } from '@fortawesome/free-solid-svg-icons';
+import { faEnvelope, faPhone, faPen } from '@fortawesome/free-solid-svg-icons';
 import { faBell } from '@fortawesome/free-regular-svg-icons';
 // import { faGithub, faFacebook, faYoutube } from '@fortawesome/free-brands-svg-icons';
 import { faGithub } from '@fortawesome/free-brands-svg-icons';
@@ -29,6 +29,11 @@ const profile: IProfile.Payload = {
       title: 'https://github.com/rlaskawns888',
       link: 'https://github.com/rlaskawns888',
       icon: faGithub,
+    },
+    {
+      title: 'https://coderdev.tistory.com/',
+      link: 'https://coderdev.tistory.com/',
+      icon: faPen,
     },
     // KNJ: (23/11/02) 페이스북 링크 없어서 삭제
     // {
